@@ -6,4 +6,3 @@
 - The Big Short
 - 12 Monkeys
 - The Curious Case of Bnejamin Button
-- Fear is the mind-killer
